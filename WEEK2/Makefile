@@ -1,0 +1,1 @@
+gcc ./string.c ../cs50.c -o string
